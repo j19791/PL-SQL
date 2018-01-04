@@ -1,4 +1,4 @@
-DECLARE --declaração das variáveis, já inicializando-as
+DECLARE --declaração das variáveis, já inicializando-as - só é obrigatório DECLARE qdo for utilizar variaveis
     --v_id number(5) := 1;
     --v_descricao varchar2(100) := 'varejo';
     
